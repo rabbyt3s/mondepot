@@ -1,3 +1,7 @@
 Bonjour anzo-l
+<<<<<<< HEAD
 
-Conflit
+Conflit 
+=======
+Au revoir rabbyt3s
+>>>>>>> d472d97d1360ed8319caca98e074e8b542e8ca39
